@@ -1,3 +1,5 @@
+DATA DICTIONARY:
+
 App: Name of the app there in the google play store.
 
 Category: Name of category under which app falls.
@@ -23,3 +25,5 @@ Last Updated: The date on which app is last updated.
 Current version: The current version of app at present.
 
 Android Version: Particular version of particular app on the android.
+
+Here, Installments is the target varible and the remaining features are independent variables
